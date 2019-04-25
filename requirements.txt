@@ -1,0 +1,7 @@
+Python with version 3.x 
+install following libraries:
+  nsepy
+  tkinter
+  matplotlib
+  numpy
+  
